@@ -1,0 +1,39 @@
+{
+  "series": [
+    {
+      "id": "2",
+      "nomeSerie": "Tudo bem não ser normal",
+      "numTemporadas": "1",
+      "anoLancamento": "2020",
+      "estudio": "Dragon"
+    },
+    {
+      "id": "3",
+      "nomeSerie": "Sorriso Real",
+      "numTemporadas": "1",
+      "anoLancamento": "2023",
+      "estudio": "JTBC"
+    },
+    {
+      "id": "1",
+      "nomeSerie": "Vincenzo",
+      "numTemporadas": "1",
+      "anoLancamento": "2021",
+      "estudio": "TVN"
+    },
+    {
+      "id": null,
+      "nomeSerie": "The Good Doctor",
+      "numTemporadas": "4",
+      "estudio": "ABC",
+      "anoLancamento": "2020"
+    },
+    {
+      "nomeSerie": "Depois de você",
+      "temporadas": "1",
+      "estudio": "netflix",
+      "anoLancamento": "2019",
+      "id": "1d60"
+    }
+  ]
+}
